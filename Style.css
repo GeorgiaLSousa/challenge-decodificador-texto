@@ -1,0 +1,106 @@
+body{
+    background-color: #D3D0D0;
+}
+
+.logo-g img{
+   margin: -7% 10%;
+   object-fit:contain;
+   width: 4cap;
+   height: 5%;
+
+    
+    
+}
+
+.presentacao{
+    margin: -1% 15%;
+    margin-top: 1%;
+    display: flex;
+    gap: 5px;
+    align-items:center;
+    justify-content: space-between;
+    background: #f7f7f7f7;
+    border: 1px solid #f7f7f7f7;
+    margin-bottom: 10px;
+    padding: 2% 2%;
+    border-radius: 5px;    
+}
+
+
+ .caixa-de-mensagem{
+    background-color: #D9D9D9;
+    padding: 1% 7%;
+    border-radius: 5px;
+    
+}
+
+
+input{
+    width: 100%;
+    padding: 20% 1% 100% 2%;
+    margin: -20% -10%;
+    font-size: 25px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: left;
+    vertical-align: top;
+    border: none;
+    background-color: #D9D9D9;
+    outline: none;
+    color: invisable;
+    
+
+}
+
+input, h2{
+    
+}
+
+.botaoes{
+    display: flex;
+    justify-content: space-between ;
+    margin-top: 20%;
+    padding: -1%;
+
+    
+}
+
+button{
+    background-color: #0A3871;
+    padding: 2% 10%;
+    border-radius: 5px;
+    color: #D3D0D0;
+    margin: 5% -5%;
+    font-size: 15px;
+}
+
+.caixa-de-resposta{
+    width: 50%;
+    padding: 25% 1%;
+    margin: -9% -1%;
+    font-size: 25px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: left;
+    vertical-align: top;
+    border: none;
+    background-color: #D9D9D9;
+    outline: none;
+    color: invisable;
+    
+}
+
+.receptor-mensagemH2, h2{
+    color: #FFFFFF;
+    padding: -5% 15% 12% 2%;
+    margin: 11% 9%;
+    margin-top: -10%;
+    text-align: center;
+
+}
+
+.caixa-de-resposta, img{
+    margin: 1%;
+    align-items: center;
+    
+}
